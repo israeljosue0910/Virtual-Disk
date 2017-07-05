@@ -5,7 +5,7 @@ IMPORTANTE: Si el programa termina sin desmontar o sin dar exit el disco en uso 
 
 Para compilar y ejecutar el proyecto en eclipse se debe seguir los siguientes pasos:
 
-	1. Buscar el proyecto P3_802143856 en el lado izquierdo de la pantalla donde dice "Package
+	1. Buscar el proyecto en el lado izquierdo de la pantalla donde dice "Package
 	   Explorer"
 	2. Una vez localizado, expande el proyecto y expande el "source folder" src.
 	   Luego expande el package "theSystem" localizado dentro de src.
